@@ -74,7 +74,13 @@
     "unassigned": "unassigned",
     "uncosumed_partitions": "Unconsumed partitions",
     "uncosumed_partitions_for_topic": "Unconsumed partitions for this topic",
-    "view_partitions_offsets": "View partition offsets"
+    "view_partitions_offsets": "View partition offsets",
+    "offset": {
+      "absolute": "absolute",
+      "timestamp": "timestamp",
+      "latest": "latest",
+      "earliest": "earliest"
+    }
   },
   "duration": "Duration",
   "duration_value": "48 hours",
